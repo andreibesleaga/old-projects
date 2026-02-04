@@ -16,11 +16,11 @@ Each project has own copyright/license.
 Other open-source participations before GitHub era, included:
 - ADODB PHP SQLite drivers
   
-- Apache Web Server 2.0 (https://httpd.apache.org/docs-project/contributors.html)\
+- Apache Web Server 2.0 https://httpd.apache.org/docs-project/contributors.html
   
 - SmallBASIC demo programs sets
   
-- other programs & contribs
+- other free programs & contributions
 
 
 
