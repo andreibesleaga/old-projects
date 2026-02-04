@@ -13,14 +13,16 @@ Each project has own copyright/license.
 - zshaped-1.2.zip - newssystem/blog, PHP4 learning project (~ 2003)
 
 
-Other open-source participations before GitHub era, included:
+Other open-source participations:
 - ADODB PHP SQLite (datadict & php driver files code)
   
 - Apache Web Server 2.0 (https://httpd.apache.org/docs-project/contributors.html)
   
 - SmallBASIC demo programs (https://github.com/smallbasic/smallbasic.samples)
   
-- other free programs & contributions
+- Code for Romania contributions
+
+- Other free programs & contributions
 
 
 
