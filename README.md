@@ -8,7 +8,7 @@ Each project has own copyright/license.
   
 - alpha-laboratory-proiect_final.zip - Alpha Remote Virtual Laboratory - LabVIEW & Internet Toolkit - world first implemented and used, remote virtual laboratory of connected hardware electronics, remote e-Learning platform, in electronics universities (UPB Bucharest, IUT Bayonne) (~ 2004)
   
-- zfeeder-1.6.zip - zFeeder - world's first PHP opensource RSS Aggregator with admin backend and over 10000 websites using it at that time, PHP5 (~ 2004)
+- zfeeder-1.6.zip - zFeeder - world's first PHP opensource RSS Aggregator with admin backend and over 10000 websites using it at that time, PHP5 (~ 2004 / 2009)
   
 - zshaped-1.2.zip - newssystem/blog, PHP4 learning project (~ 2003)
 
